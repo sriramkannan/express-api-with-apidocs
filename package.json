@@ -1,0 +1,13 @@
+{
+  "name": "express-api-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-json-db": "^0.7.3"
+  }
+}
